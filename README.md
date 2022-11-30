@@ -18,5 +18,5 @@ The webpage contains notes about the backend of a webapge. Notes capture the maj
 ## Credits
  N/A
 
-##
-License Please refer to the LICENSE in the repo
+## License
+Please refer to the LICENSE in the repo
